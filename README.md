@@ -38,3 +38,13 @@ class Program
     }
 }
 ```
+
+### [COBOL](https://en.wikipedia.org/wiki/COBOL) - [code](https://github.com/Coder-Here/hello-world-in-many-langs/blob/main/cobol.cbl)
+```cbl
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. hello-world.
+       PROCEDURE DIVISION.
+           DISPLAY "Hello World!"
+           .
+```
+
